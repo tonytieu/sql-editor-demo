@@ -1,5 +1,5 @@
 {
-  "name": "sql-editor-demo",
+  "name": "invoice-creator-demo",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -9,18 +9,22 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "core-js": "^3.8.3",
     "dayjs": "^1.10.4",
     "element-ui": "^2.15.1",
     "lodash": "^4.17.21",
-    "nuxt": "^2.14.12",
+    "nuxt": "^2.15.3",
     "prismjs": "^1.23.0",
     "vue-code-highlight": "^0.7.6",
     "vue-prism-editor": "^1.2.2"
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^3.4.2",
+    "@tailwindcss/aspect-ratio": "^0.2.0",
+    "@tailwindcss/forms": "^0.3.0",
     "@tailwindcss/postcss7-compat": "^2.0.3",
+    "@tailwindcss/typography": "^0.4.0",
     "autoprefixer": "^9.8.6",
     "fibers": "^5.0.0",
     "nuxt-compress": "^4.1.0",

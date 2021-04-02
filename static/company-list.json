@@ -1,0 +1,77 @@
+[{
+    "company_name": "The Software Practice Pte Ltd",
+    "logo": "/logos/tsp.png",
+    "company_tel": "+65-9555391",
+    "person_tel": "+65-95555547",
+    "fax": "+65-85558439",
+    "people": [
+        {
+            "first_name": "Khasali"
+        },
+        {
+            "first_name": "Hayden"
+        }
+    ]
+  }, 
+  {
+    "company_name": "DBS Bank Ltd",
+    "logo": "/logos/dbs.png",
+    "company_tel": "+65-95553372",
+    "person_tel": "+65-85552187",
+    "fax": "+65-85555306",
+    "people": [
+        {
+            "first_name": "Lucius"
+        },
+        {
+            "first_name": "Jerrilyn"
+        }
+    ]
+  },
+  {
+    "company_name": "Standard Chartered Bank",
+    "logo": "/logos/standard_chartered.png",
+    "company_tel": "+65-95553372",
+    "person_tel": "+65-85552187",
+    "fax": "+65-85555306",
+    "people": [
+        {
+            "first_name": "Lucius"
+        },
+        {
+            "first_name": "Jerrilyn"
+        }
+    ]
+  },
+  {
+    "company_name": "Certis CISCO Security Pte Ltd",
+    "logo": "/logos/certis.ico",
+    "company_tel": "+65-95553372",
+    "person_tel": "+65-85552187",
+    "fax": "+65-85555306",
+    "people": [
+        {
+            "first_name": "Lucius"
+        },
+        {
+            "first_name": "Jerrilyn"
+        }
+    ]
+  },
+  {
+    "company_name": "Hewlett Packard Enterprise Development LP",
+    "logo": "/logos/hp.ico",
+    "company_tel": "+65-95553372",
+    "person_tel": "+65-85552187",
+    "fax": "+65-85555306",
+    "people": [
+        {
+            "first_name": "Lucius"
+        },
+        {
+            "first_name": "Jerrilyn"
+        }
+    ]
+  }
+]
+  

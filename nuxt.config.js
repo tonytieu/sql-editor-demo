@@ -5,7 +5,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'sql-editor-demo',
+    title: 'invoice-editor-demo',
     htmlAttrs: {
       lang: 'en'
     },
@@ -28,6 +28,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    "~/plugins/element-ui.js"
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
